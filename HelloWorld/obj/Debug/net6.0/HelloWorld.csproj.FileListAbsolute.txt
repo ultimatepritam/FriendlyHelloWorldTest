@@ -1,0 +1,15 @@
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/ultimatepritam/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
